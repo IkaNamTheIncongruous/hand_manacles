@@ -1,0 +1,10 @@
+{
+    "name": "be.noefalesse.hand_manacles",
+    "displayName": "hand manacles for vr game",
+    "version": "0.0.1",
+    "unity": "2018.1",
+    "description": "manacles",
+    "keywords": ["Script","Tool"],
+    "category": "Script",
+    "dependencies":{}
+  }
